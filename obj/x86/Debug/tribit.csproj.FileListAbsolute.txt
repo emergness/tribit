@@ -1,0 +1,5 @@
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\tribit\tribit\bin\Debug\tribit.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\tribit\tribit\bin\Debug\tribit.pdb
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\tribit\tribit\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\tribit\tribit\obj\x86\Debug\tribit.exe
+c:\documents and settings\администратор\мои документы\visual studio 2010\Projects\tribit\tribit\obj\x86\Debug\tribit.pdb
